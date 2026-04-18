@@ -10,3 +10,4 @@ Bu projede, yaş ve kolesterol seviyeleri arasındaki ilişkiyi Python kullanara
 ## 📊 Öne Çıkan Bulgular
 * 40 yaş üstü bireylerde kalp riski artış eğilimindedir.
 * Günlük adım sayısı, kolesterol etkisini dengeleyen kritik bir faktördür.
+![Analiz Grafiği](grafik.png)
